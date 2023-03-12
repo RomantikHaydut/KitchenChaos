@@ -8,5 +8,7 @@ public class RecipeSO : ScriptableObject
     public List<KitchenObjectSO> kitchenObjectSOList = new List<KitchenObjectSO>();
 
     public string recipeName;
+
+    public int scoreFactor;
 }
 

@@ -16,3 +16,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c5da005d7d26f79449b5d4693b82f11d, type: 2}
   - {fileID: 11400000, guid: 2c37d93aade315c4b82da60e99ac4cb3, type: 2}
   recipeName: Burger
+  scoreFactor: 20

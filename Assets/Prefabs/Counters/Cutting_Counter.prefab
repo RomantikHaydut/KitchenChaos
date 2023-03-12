@@ -475,10 +475,20 @@ PrefabInstance:
       propertyPath: hasProgressGameObject
       value: 
       objectReference: {fileID: 701168447638734951}
+    - target: {fileID: 4856062923364441221, guid: f802119b475ebb748b9bc61212bf6845,
+        type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6898695953078956565, guid: f802119b475ebb748b9bc61212bf6845,
         type: 3}
       propertyPath: m_Name
       value: ProgressBar_UI
+      objectReference: {fileID: 0}
+    - target: {fileID: 8999604101197838867, guid: f802119b475ebb748b9bc61212bf6845,
+        type: 3}
+      propertyPath: mode
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f802119b475ebb748b9bc61212bf6845, type: 3}
